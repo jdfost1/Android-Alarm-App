@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="for_all">Repeat</string>
+    <string-array name="items">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

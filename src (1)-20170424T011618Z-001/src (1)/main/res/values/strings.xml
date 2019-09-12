@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidAlarm</string>
+    <string name="title_activity_set_alarm">SetAlarmActivity</string>
+</resources>
